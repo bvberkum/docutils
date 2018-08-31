@@ -1,0 +1,9 @@
+- type: application/vnd.org.wtwta.project
+  main: python-docutils
+  id: python-docutils
+
+  repositories:
+    github: git@github.com:bvberkum/docutils.git
+    notus: /src/local/python-docutils/docutils.git
+    dotmpe: dotmpe:domains/dotmpe.com/htdocs/git/docutils.git
+    origin: http://repo.or.cz/docutils.git
